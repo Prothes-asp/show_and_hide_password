@@ -1,0 +1,14 @@
+#main{
+    height: 100vh;
+}
+#checkBox{
+    cursor: pointer;
+}
+#submit{
+    font-weight: bold;
+    transition: all 1s;
+}
+#submit:hover{
+    color: #fff;
+    font-weight: bold;
+}
